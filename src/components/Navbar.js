@@ -22,6 +22,7 @@ const mapStateToProps = (state) => {
   return {
     items: state.addedItems,
     //addedItems: state.addedItems
+    // state add items
   }
 }
 
